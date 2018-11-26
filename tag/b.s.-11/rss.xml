@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>stanfordirl.com</title>
+   
+   <link>https://stanfordirl.com/</link>
+   <description>This is a chronicle of the lives of my former classmates and the amazing things they do after Stanford. Your daily dose of existential crisis. You're welcome. </description>
+   <language>en-us</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Lucas Baker (B.S. ‘11)</title>
+	  <link>//lucas-baker-bs11</link>
+	  <author></author>
+	  <pubDate>2018-07-17T03:18:00-07:00</pubDate>
+	  <guid>//lucas-baker-bs11</guid>
+	  <description><![CDATA[
+	     <p>Lucas just came back from a year playing Go in Japan.</p>
+
+<p>“I think I’ve learned enough about Go,” he said as we walked back from the boba shop.<br /> 
+“Who’s the best go player you met in Japan?”<br />
+“Best, most famous, or my favorite?”<br />
+“Best: I got the world champion to autograph a folding fan and took a picture with the Japanese champion. Most famous: Takemiya Masaki. My favorite: my teacher Chizu-sensei.”<br /></p>
+
+<p>Lucas’ life is so wonderfully colorful. After Stanford, he first joined Square, then founded HackerMeter (Y Combinator, S13), which got acqui-hired by Pinterest. After that, he got tired of Bay Area and went to London to work as an engineer at DeepMind, where he witnessed the legendary AlphaGo versus Lee Sedol match and wrote a beautiful <a href="https://medium.com/@lucas.jd.baker/ai-and-the-art-of-go-1712672389dc">blog post about it</a>. Then he left the tech world to spend a year in Japan just to play Go. He’s visiting Bay Area before joining the MS/MBA program at Harvard Business School.</p>
+
+<p>I met Lucas for the first time in London summer 2016. Even though our time at Stanford didn’t overlap, we have a bunch of mutual friends. We didn’t get along very well at that time, but later, we read each other’s writing and realized we were both incorrigibly obsessive. We both travel a lot but always try to keep in touch. Lucas is one of the most analytical people I know – and that says a lot given everyone at Stanford is analytical by nature. He’s one of the two people I always bother when I need to make an important decision.</p>
+
+<p>Lucas told me about the concept of “Fuck you money” — the amount of money you need to be able to say fuck you to anyone and get away with it. I asked him about “fuck you talent” — what if you’re so good at what you’re doing that no matter what an asshole you are, people still need you. Lucas asked: “Like Elon Musk?” Touche.</p>
+
+<p>When not optimizing his reward functions, Lucas makes dumb nerd jokes. His latest invention:</p>
+
+<p>“What does a programmer call it when he pulls a hamstring?<br />
+Runtime error.”</p>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>stanfordirl.com</title>
+   
+   <link>https://stanfordirl.com/</link>
+   <description>This is a chronicle of the lives of my former classmates and the amazing things they do after Stanford. Your daily dose of existential crisis. You're welcome. </description>
+   <language>en-us</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Viraj Mehta (B.S. ‘18, M.S. '18)</title>
+	  <link>//viraj-mehta-bs18</link>
+	  <author></author>
+	  <pubDate>2018-07-21T03:18:00-07:00</pubDate>
+	  <guid>//viraj-mehta-bs18</guid>
+	  <description><![CDATA[
+	     <p>Viraj texted me today. He had got into the robotics PhD program at CMU but deferred it for one year to work on a crypto fund with Gabe (<a href="https://stanfordirl.com//tag/gabriel-bianconi/">Gabriel Bianconi</a>, <a href="https://stanfordirl.com//tag/b.s.-17/">B.S. ‘17</a>). “It’s not working out and I don’t know what to do.”</p>
+
+<p>He sounded a bit nervous so we facetimed. He was in Texas with his parents. We went over his options – I tried to suggest a few things but they were all in Bay Area and Viraj was determined to be in New York. I honestly didn’t know why he was nervous. Viraj is extremely intense and has been dubbed by my friend Paul Warren (B.S ‘17) as one of the smartest people he knows. He’s interned at Cisco, Visa, and Google. In our senior year, he went on college Jeopardy! and finished third-place with a check for $25,000, flipping off the entire nation in the process. See <a href="https://learn365project.com/2017/02/23/day-290-did-viraj-mehta-really-flip-of-american-people/">his famed middle finger</a>.</p>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>stanfordirl.com</title>
+   
+   <link>https://stanfordirl.com/</link>
+   <description>This is a chronicle of the lives of my former classmates and the amazing things they do after Stanford. Your daily dose of existential crisis. You're welcome. </description>
+   <language>en-us</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Zack Lawrence (B.S. ‘18 - dropout)</title>
+	  <link>//zack-lawrence-bs18</link>
+	  <author></author>
+	  <pubDate>2018-09-14T03:18:00-07:00</pubDate>
+	  <guid>//zack-lawrence-bs18</guid>
+	  <description><![CDATA[
+	     <p>A few weeks ago, I went for a run with Michael (B.S. ‘18), who was working on his crypto trading platform. He mentioned other people in our class who were also working on crypto.</p>
+
+<p>“Do you know Zack Lawrence? His company has been hiring so many people from Stanford.”<br />
+“Wait, is he back?”<br />
+“Oh yes. His office is in SF.”</p>
+
+<p>Zack and I used to hang out in college. We met through Dan Boneh’s cryptography class – he visited a mutual friend in my dorm and ended up helping me with my homework. We then were in game theory class together and became good friends. Soon after that, he dropped out of school to start a company with his roommate/best friend <a href="https://stanfordirl.com//tag/axel-ericsson">Axel Ericsson</a> (B.S. ‘18). They moved to Berlin, then London. Like most long distance friendships, ours gradually fizzled out. I suspect it might also have something to do with his having a lot of cryptocurrencies and my lack of them.</p>
+
+<p>I hadn’t seen Zack for 2 years, and I was excited to see how he was doing. He didn’t respond to me for a week. “Sorry, I was with a company retreat in the Philippines.” We kept planning but all our plannings fell through until this evening, Zack asked me what I was up to.</p>
+
+<p>“My roommate and I just went to Safeway and got a party size bag of M&amp;Ms,” said I.<br />
+“Want to hang out in SF?”<br />
+“Google Maps says the train can take me to SF by 11pm so guess not.”<br />
+“How about Uber?”<br />
+“Do I look like a crypto millionaire to you?”<br />
+“Lemme call you a Uber.”</p>
+
+<p>Zack is sharing an apartment on the 34th floor overlooking the Bay with Axel and a British guy he works with. His startup is currently named Vest, rebranded from 1protocol. Two things I never understand about crypto companies:
+They love having numbers in their names (1conformation, ob1, 1xbit, etc.)
+Everyone has a whitepaper.</p>
+
+<p>Their company allows people to do staking on Ethereum. He tried to explain what it meant to me but when facing with complex information on a Friday evening, my dense head has the tendency to zone out. You can read more about his startup <a href="https://medium.com/vest/introducing-1protocol-d2f239285386">here</a>. Yes, there’s a link to their whitepaper in that post.</p>
+
+<p>In general, I’m happy to report that even though Zack is as flaky as he was in college and as stressed as any startup founder, he’s doing well. His startup is backed by prestigious investors. He reads good books and enjoys good food. He has a good group of friends and he seems to be a good manager.</p>
+
+<p>“I heard you’ve hired a lot of people from Stanford,” said I.<br />
+“Yeah, we have about xx people now and more than half are from Stanford our year.”<br />
+“Isn’t it weird to hire your friends?”<br />
+“Why?”<br />
+“You might be an asshole to them now that they work under you.”<br />
+“I can be an asshole to them even if they don’t work for me.”<br />
+“True that.”</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>stanfordirl.com</title>
+   
+   <link>https://stanfordirl.com/</link>
+   <description>This is a chronicle of the lives of my former classmates and the amazing things they do after Stanford. Your daily dose of existential crisis. You're welcome. </description>
+   <language>en-us</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Simon Kalouche (Ph.D. ‘19 - on leave)</title>
+	  <link>//simon-kalouche-phd19</link>
+	  <author></author>
+	  <pubDate>2018-11-02T03:18:00-07:00</pubDate>
+	  <guid>//simon-kalouche-phd19</guid>
+	  <description><![CDATA[
+	     <p>You can always tell how much money your startup friend has just raised by how fast they disappear from your circle.</p>
+
+<p>Simon was my student the first time I taught the course <a href="http://web.stanford.edu/class/cs20si/">TensorFlow for Deep Learning Research</a> in early 2017. He was a first year PhD candidate back then and I was so impressed by his resume: he was an NDSEG fellow, an NSF fellow, a James R. Swartz Entrepreneurial fellow, etc. and his robotics work has been featured on every fancy website. Check out <a href="https://web.stanford.edu/~kalouche/index.html">his website</a> and be ready to question your self-worth.</p>
+
+<p><img alt="Simon Kalouche" src="https://stanfordirl.com//assets/images/people/simon-kalouche.jpg" style="float: center; max-width: 80%; margin: 0 0 1em 0.5em" /></p>
+
+<p>We became friends when we were invited by the same VC to a startup launch party and we bonded over the long drive and our mutual fascination for how strange the startup world was. We became even better friends when I saw Instagram stories of him partying like it’s 1999 in Cabo.</p>
+
+<p>Soon after my class, he took leave from his PhD program and moved to the city to work on his startup. I’ve been meaning to visit his office for a long time but I was lazy and it was getting increasingly difficult to schedule time with him. Until one day, I decided to drag my lazy ass to the city to visit Simon’s startup and a bunch of other companies.</p>
+
+<p>His startup is located in a cozy space near Powell Station. About a quarter of the space is dedicated to robot arms. <a href="https://nimble.ai/">Nimble.ai</a>, his startup, uses human teleoperation through AR/VR interfaces to teach robots complex skills like how to grasp and manipulate any kind of object. Their first product is a robot for eCommerce fulfillment that may one day handle your Amazon orders. He let me control the robot arm through a graphical interface and after a series of my deliberate efforts to sabotage his algorithm, Simon decided that I was the worst human operator. “You’d never be able to get a job sorting items at a warehouse.”</p>
+
+<p>Simon used to be down to party but ever since his startup, ‘party’ suddenly became a curse word. He just works all the time. He spent all September and October fund-raising and he just got his term sheet.</p>
+
+<p>“I used to think that building a company means that I just need to have amazing technologies, but now I spend the majority of my time dealing with other stuff: raising funds, hiring, managing, motivating people, finding customers, etc. I’m learning so much. I’m not even trying to network. I just talk to people about what I’m working on and somehow that leads to new relationships.”<br /></p>
+
+<p>We walked around his block and I got the impression that if I ever did a startup, I would want a co-founder like Simon. He’s extremely smart, hard-working, charismatic, and fun to talk to.</p>
+
+<p>“What can I help you with?” I asked.<br />
+“At this point, the most important thing is hiring. We’re planning on hiring 15 more engineers in the coming months. Computer Vision, yes. If you know anyone, let me know.”</p>
+
+<p>They are looking for really good engineers. “We recently went to career fairs at Berkeley, MIT and Stanford and got 300+ resumes. I’ve been spending so much time screening resumes that I’ve become a snob. They have to stand out.”</p>
+
+<p>So if you’re amazing engineers/researchers in Computer Vision looking for an exciting, early-stage startup to join, check out Nimble.ai. 10/10 would recommend.</p>
+
+<p>===</p>
+
+<p>Thanks to the suggestions from <a href="https://stanfordirl.com/tag/lucio-dery/">Lucio</a> and Simon, we’re asking everyone about the books they are reading and the people they want to be featured next.</p>
+
+<p>Books Simon is reading:</p>
+
+<ul>
+  <li>Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days (Jake Knapp, John Zeratsky, Braden Kowitz, 2016)</li>
+  <li>Inspired: How To Create Products Customers Love (Marty Cagan, 2018)</li>
+  <li>Hire With Your Head: Using Performance-Based Hiring to Build Great Teams (Lou Adler, 2002)</li>
+</ul>
+
+<p>Simon: “Sprint and Inspired are about product and solving problems around customer need fast. Hire with your head is about … hiring. This book was recommended to me by Kian Katanforoosh (M.S. ‘17).</p>
+
+<p>3 people that Simon wants to be featured next:</p>
+
+<ul>
+  <li><a href="https://stanfordirl.com/tag/kian-katanforoosh/">Kian Katanforoosh</a> (M.S. ‘17)</li>
+  <li><a href="https://stanfordirl.com/tag/zayd-enam/">Zayd Enam</a> (Ph.D. ‘22 - on leave)</li>
+  <li><a href="https://stanfordirl.com/tag/andre-esteva/">Andre Esteva</a> (Ph.D. ‘18)</li>
+</ul>
+
+<p>P.S. Simon is tryna grow his Twitter so find him <a href="https://twitter.com/simonkalouche">@simonkalouche</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Lucio Dery (B.S. ‘17, M.S. ‘18)</title>
+	  <link>//lucio-dery-bs17</link>
+	  <author></author>
+	  <pubDate>2018-10-08T03:18:00-07:00</pubDate>
+	  <guid>//lucio-dery-bs17</guid>
+	  <description><![CDATA[
+	     <p>Lucio likes telling the story when we first met. He was complaining (more like humble-bragging) about the pressure he felt because so many kids in Ghana looked up to him and I shot him down like fireworks.</p>
+
+<p>“There are 2000 people following me on Facebook,” he said.<br />
+“I have 80,000,” I said.</p>
+
+<p>We worked together on an automatic essay grading project that he carried me through. Lucio majored in Physics (brain alert) but had an amazing grasp of math and programming. By the end of his coterm, he had an offer to join Facebook AI Research (FAIR) in Paris - a position that he really wanted.</p>
+
+<p>So I was surprised when he texted me he was in Bay Area. Instead of joining FAIR in Paris, he joined the new FAIR office in Seattle.</p>
+
+<p>“Why would anyone choose Seattle over Paris?”<br />
+“I was going through a lot of personal stuff and didn’t want to deal with it in a new country. Yeah, don’t worry, I’m fine now.”</p>
+
+<p>Indeed he looked fine. He had finally decided to embrace his hipsterness and proudly wore his gray, big-lense hipster glasses. He also works out everyday. Even though he’s still trying to navigate his new job (it took him a long time to settle on what project to work on – which is language modeling on Wikipedia), he enjoys living in Seattle.</p>
+
+<p><img alt="Lucio Dery" src="https://stanfordirl.com//assets/images/people/lucio-dery.jpg" style="float: center; max-width: 80%; margin: 0 0 1em 2em" /></p>
+
+<p>Reasons why he loves Seattle:</p>
+
+<ul>
+  <li>A girl hit on him for the first time ever. “That would never happen in Bay Area,” said Lucio.</li>
+  <li>It’s good to get out of the Stanford bubble (but he still lives with a bunch of friends from college).</li>
+  <li>Housing is so cheap. They have an actual guest room.</li>
+  <li>Tax is so low. [Lucio: “I don’t even know what to do with all the money I have now.” Me: “Have you heard of something called cryptocurrency?”]</li>
+</ul>
+
+<p>Despite his love for Seattle, he still visits Bay Area every month for work. Next September, he will be starting his Ph.D. at CMU. He’s progressively moving to areas with worse weather. Wish him luck.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

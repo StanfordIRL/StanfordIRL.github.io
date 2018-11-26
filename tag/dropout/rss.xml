@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>stanfordirl.com</title>
+   
+   <link>https://stanfordirl.com/</link>
+   <description>This is a chronicle of the lives of my former classmates and the amazing things they do after Stanford. Your daily dose of existential crisis. You're welcome. </description>
+   <language>en-us</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Simon Kalouche (Ph.D. ‘19 - on leave)</title>
+	  <link>//simon-kalouche-phd19</link>
+	  <author></author>
+	  <pubDate>2018-11-02T03:18:00-07:00</pubDate>
+	  <guid>//simon-kalouche-phd19</guid>
+	  <description><![CDATA[
+	     <p>You can always tell how much money your startup friend has just raised by how fast they disappear from your circle.</p>
+
+<p>Simon was my student the first time I taught the course <a href="http://web.stanford.edu/class/cs20si/">TensorFlow for Deep Learning Research</a> in early 2017. He was a first year PhD candidate back then and I was so impressed by his resume: he was an NDSEG fellow, an NSF fellow, a James R. Swartz Entrepreneurial fellow, etc. and his robotics work has been featured on every fancy website. Check out <a href="https://web.stanford.edu/~kalouche/index.html">his website</a> and be ready to question your self-worth.</p>
+
+<p><img alt="Simon Kalouche" src="https://stanfordirl.com//assets/images/people/simon-kalouche.jpg" style="float: center; max-width: 80%; margin: 0 0 1em 0.5em" /></p>
+
+<p>We became friends when we were invited by the same VC to a startup launch party and we bonded over the long drive and our mutual fascination for how strange the startup world was. We became even better friends when I saw Instagram stories of him partying like it’s 1999 in Cabo.</p>
+
+<p>Soon after my class, he took leave from his PhD program and moved to the city to work on his startup. I’ve been meaning to visit his office for a long time but I was lazy and it was getting increasingly difficult to schedule time with him. Until one day, I decided to drag my lazy ass to the city to visit Simon’s startup and a bunch of other companies.</p>
+
+<p>His startup is located in a cozy space near Powell Station. About a quarter of the space is dedicated to robot arms. <a href="https://nimble.ai/">Nimble.ai</a>, his startup, uses human teleoperation through AR/VR interfaces to teach robots complex skills like how to grasp and manipulate any kind of object. Their first product is a robot for eCommerce fulfillment that may one day handle your Amazon orders. He let me control the robot arm through a graphical interface and after a series of my deliberate efforts to sabotage his algorithm, Simon decided that I was the worst human operator. “You’d never be able to get a job sorting items at a warehouse.”</p>
+
+<p>Simon used to be down to party but ever since his startup, ‘party’ suddenly became a curse word. He just works all the time. He spent all September and October fund-raising and he just got his term sheet.</p>
+
+<p>“I used to think that building a company means that I just need to have amazing technologies, but now I spend the majority of my time dealing with other stuff: raising funds, hiring, managing, motivating people, finding customers, etc. I’m learning so much. I’m not even trying to network. I just talk to people about what I’m working on and somehow that leads to new relationships.”<br /></p>
+
+<p>We walked around his block and I got the impression that if I ever did a startup, I would want a co-founder like Simon. He’s extremely smart, hard-working, charismatic, and fun to talk to.</p>
+
+<p>“What can I help you with?” I asked.<br />
+“At this point, the most important thing is hiring. We’re planning on hiring 15 more engineers in the coming months. Computer Vision, yes. If you know anyone, let me know.”</p>
+
+<p>They are looking for really good engineers. “We recently went to career fairs at Berkeley, MIT and Stanford and got 300+ resumes. I’ve been spending so much time screening resumes that I’ve become a snob. They have to stand out.”</p>
+
+<p>So if you’re amazing engineers/researchers in Computer Vision looking for an exciting, early-stage startup to join, check out Nimble.ai. 10/10 would recommend.</p>
+
+<p>===</p>
+
+<p>Thanks to the suggestions from <a href="https://stanfordirl.com/tag/lucio-dery/">Lucio</a> and Simon, we’re asking everyone about the books they are reading and the people they want to be featured next.</p>
+
+<p>Books Simon is reading:</p>
+
+<ul>
+  <li>Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days (Jake Knapp, John Zeratsky, Braden Kowitz, 2016)</li>
+  <li>Inspired: How To Create Products Customers Love (Marty Cagan, 2018)</li>
+  <li>Hire With Your Head: Using Performance-Based Hiring to Build Great Teams (Lou Adler, 2002)</li>
+</ul>
+
+<p>Simon: “Sprint and Inspired are about product and solving problems around customer need fast. Hire with your head is about … hiring. This book was recommended to me by Kian Katanforoosh (M.S. ‘17).</p>
+
+<p>3 people that Simon wants to be featured next:</p>
+
+<ul>
+  <li><a href="https://stanfordirl.com/tag/kian-katanforoosh/">Kian Katanforoosh</a> (M.S. ‘17)</li>
+  <li><a href="https://stanfordirl.com/tag/zayd-enam/">Zayd Enam</a> (Ph.D. ‘22 - on leave)</li>
+  <li><a href="https://stanfordirl.com/tag/andre-esteva/">Andre Esteva</a> (Ph.D. ‘18)</li>
+</ul>
+
+<p>P.S. Simon is tryna grow his Twitter so find him <a href="https://twitter.com/simonkalouche">@simonkalouche</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Zack Lawrence (B.S. ‘18 - dropout)</title>
+	  <link>//zack-lawrence-bs18</link>
+	  <author></author>
+	  <pubDate>2018-09-14T03:18:00-07:00</pubDate>
+	  <guid>//zack-lawrence-bs18</guid>
+	  <description><![CDATA[
+	     <p>A few weeks ago, I went for a run with Michael (B.S. ‘18), who was working on his crypto trading platform. He mentioned other people in our class who were also working on crypto.</p>
+
+<p>“Do you know Zack Lawrence? His company has been hiring so many people from Stanford.”<br />
+“Wait, is he back?”<br />
+“Oh yes. His office is in SF.”</p>
+
+<p>Zack and I used to hang out in college. We met through Dan Boneh’s cryptography class – he visited a mutual friend in my dorm and ended up helping me with my homework. We then were in game theory class together and became good friends. Soon after that, he dropped out of school to start a company with his roommate/best friend <a href="https://stanfordirl.com//tag/axel-ericsson">Axel Ericsson</a> (B.S. ‘18). They moved to Berlin, then London. Like most long distance friendships, ours gradually fizzled out. I suspect it might also have something to do with his having a lot of cryptocurrencies and my lack of them.</p>
+
+<p>I hadn’t seen Zack for 2 years, and I was excited to see how he was doing. He didn’t respond to me for a week. “Sorry, I was with a company retreat in the Philippines.” We kept planning but all our plannings fell through until this evening, Zack asked me what I was up to.</p>
+
+<p>“My roommate and I just went to Safeway and got a party size bag of M&amp;Ms,” said I.<br />
+“Want to hang out in SF?”<br />
+“Google Maps says the train can take me to SF by 11pm so guess not.”<br />
+“How about Uber?”<br />
+“Do I look like a crypto millionaire to you?”<br />
+“Lemme call you a Uber.”</p>
+
+<p>Zack is sharing an apartment on the 34th floor overlooking the Bay with Axel and a British guy he works with. His startup is currently named Vest, rebranded from 1protocol. Two things I never understand about crypto companies:
+They love having numbers in their names (1conformation, ob1, 1xbit, etc.)
+Everyone has a whitepaper.</p>
+
+<p>Their company allows people to do staking on Ethereum. He tried to explain what it meant to me but when facing with complex information on a Friday evening, my dense head has the tendency to zone out. You can read more about his startup <a href="https://medium.com/vest/introducing-1protocol-d2f239285386">here</a>. Yes, there’s a link to their whitepaper in that post.</p>
+
+<p>In general, I’m happy to report that even though Zack is as flaky as he was in college and as stressed as any startup founder, he’s doing well. His startup is backed by prestigious investors. He reads good books and enjoys good food. He has a good group of friends and he seems to be a good manager.</p>
+
+<p>“I heard you’ve hired a lot of people from Stanford,” said I.<br />
+“Yeah, we have about xx people now and more than half are from Stanford our year.”<br />
+“Isn’t it weird to hire your friends?”<br />
+“Why?”<br />
+“You might be an asshole to them now that they work under you.”<br />
+“I can be an asshole to them even if they don’t work for me.”<br />
+“True that.”</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
