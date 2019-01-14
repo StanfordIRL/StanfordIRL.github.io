@@ -43,7 +43,7 @@ I asked him about the PS he added at the end of his message.
 <img
     alt="John Luttig"
     src="{{ site.url }}/assets/images/people/john-luttig.jpg"
-    style="float: center; max-width: 80%; margin: 0 0 1em 0.5em">
+    style="float: center; max-width: 35%; margin: 0 0 1em 0.5em">
 
 I walked him back to his place, a fancy-looking apartment in Pac Heights. He was about to pick up his girlfriend since college, [Melisa Tokmak (B.S. ‘17)](https://stanfordirl.com/tag/melisa-tokmak/), who is a product manager at Facebook. He’s happy with his work and with his relationship. He runs a [weekly newsletter](https://us19.campaign-archive.com/home/?u=08307b0615c07686e2049c8ea&id=2b5966acb1) in which he shares one thing he’s learned and one question he’s thinking about. He also hosts poker nights every Tuesday. Don’t shoot him an email if you want a job, but shoot him an email if you want to brainstorm about your career or company. 
 
