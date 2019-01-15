@@ -4,7 +4,7 @@ cover: 'assets/images/cover9.jpg'
 navigation: True
 title: Akash Modi (B.S. ‘17, M.S. ‘19)
 date: 2018-11-24 10:18:00
-tags: b.s.-17 akash-modi gymnastics athlete
+tags: b.s.-17 m.s.-19 akash-modi gymnastics athlete
 subclass: 'post tag-test tag-content'
 logo: 'assets/images/stanford.png'
 ---
