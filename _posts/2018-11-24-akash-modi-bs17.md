@@ -44,9 +44,3 @@ Here's Akash with his team at Doha2018. He's the guy with the charming smile in 
     alt="Akash Modi"
     src="{{ site.url }}/assets/images/people/akash-modi.jpg"
     style="float: center; max-width: 80%; margin: 0 0 1em 0.5em">
-
-Books that Akash is reading:
-- 
-
-Three people Akash would like to be featured next on StanfordIRL:
-- 
