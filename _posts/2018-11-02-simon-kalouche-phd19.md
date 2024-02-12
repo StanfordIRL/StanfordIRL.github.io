@@ -13,11 +13,6 @@ You can always tell how much money your startup friend has just raised by how fa
 
 Simon was my student the first time I taught the course [TensorFlow for Deep Learning Research](http://web.stanford.edu/class/cs20si/) in early 2017. He was a first year PhD candidate back then and I was so impressed by his resume: he was an NDSEG fellow, an NSF fellow, a James R. Swartz Entrepreneurial fellow, etc. and his robotics work has been featured on every fancy website. Check out [his website](https://web.stanford.edu/~kalouche/index.html) and be ready to question your self-worth.
 
-<img
-    alt="Simon Kalouche"
-    src="{{ site.url }}/assets/images/people/simon-kalouche.jpg"
-    style="float: center; max-width: 80%; margin: 0 0 1em 0.5em">
-
 We became friends when we were invited by the same VC to a startup launch party and we bonded over the long drive and our mutual fascination for how strange the startup world was. We became even better friends when I saw Instagram stories of him partying like it’s 1999 in Cabo.
 
 Soon after my class, he took leave from his PhD program and moved to the city to work on his startup. I’ve been meaning to visit his office for a long time but I was lazy and it was getting increasingly difficult to schedule time with him. Until one day, I decided to drag my lazy ass to the city to visit Simon’s startup and a bunch of other companies.
